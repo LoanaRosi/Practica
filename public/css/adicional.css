@@ -1,0 +1,20 @@
+.adicional {
+    background-image: url('https://www.gestamp.com/getmedia/09443a21-664e-424c-9f71-a19b74c0955d/Banner-Contacto');
+}
+.adicional {
+    background-size: cover;
+}
+.adicional h1 {
+    text-align: center;
+}
+.adicional p {
+    font-size: larger;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.adicional div {
+    font-size: larger;
+    font-weight: 500;
+}
+
