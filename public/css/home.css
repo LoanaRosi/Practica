@@ -1,26 +1,25 @@
 .home {
     background-image: url('https://wallpapercave.com/wp/05QyIzb.jpg');
-}
-.home {
     background-size: cover;
+    font-family: 'Merienda', cursive;
 }
+
 .home h1 {
-    font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
     font-weight: 800;
     text-align: center;
+    background-color: rgb(255, 182, 193, 0.4);
+    
 }
 
 .home h2 {
     font-size: 20px;
     font-weight: 800;
-    text-decoration: underline;
 }
 
-.home h3 {
-    font-size: 20px;
-    font-weight: 800;
-    text-decoration: underline;
+.home h2 a {
+    color: darkkhaki;
+    font-style: italic;
 }
 
 .home div {
@@ -29,6 +28,6 @@
 }
 
 .home p {
-    text-align: left;
+    text-align: justify;
     font-size: 18px;
 }

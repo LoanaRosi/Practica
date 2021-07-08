@@ -1,11 +1,15 @@
 .adicional {
     background-image: url('https://www.gestamp.com/getmedia/09443a21-664e-424c-9f71-a19b74c0955d/Banner-Contacto');
-}
-.adicional {
     background-size: cover;
+    font-family: 'Merienda', cursive;
 }
+
 .adicional h1 {
+    font-size: 30px;
+    font-weight: 800;
     text-align: center;
+    background-color: rgb(255, 182, 193, 0.4);
+    
 }
 .adicional p {
     font-size: larger;
@@ -16,5 +20,8 @@
 .adicional div {
     font-size: larger;
     font-weight: 500;
+}
+.adicional div a {
+    font-style: italic;
 }
 
